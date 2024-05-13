@@ -229,3 +229,5 @@ print '--------la suma total de los valores es : '+ cast (@sumatotal as varchar(
 print '-----------la resta de los valores es : ' + cast(@resta as varchar(50))
 print'------------------------------------------'
 go 
+--****************************************************************************************--
+--**DAIRY MODIFICANDO EL DE SANTI**09:43**
